@@ -62,7 +62,7 @@ const connection = mySQL.createConnection({
   host: "localhost",
   database: "Test",
   user: "root",
-  password: "jua64aco89",
+  password: "",
 });
 
 connection.connect((err) => {
